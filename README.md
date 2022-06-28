@@ -25,8 +25,8 @@ Frontend Developer
 * 🖥️  See my portfolio at [My Portfolio](http://azaniamokhampane.vercel.app)
 * ✉️  You can contact me at [azaniam04@gmail.com](mailto:azaniam04@gmail.com)
 * 🚀  I'm currently working on [My Todo App](http://todo-app-one-peach.vercel.app/)
-* 🧠  I'm learning React(Typescript) qnd GraphQL
-* 🤝  I'm open to collaborating on any interestung open source project
+* 🧠  I'm learning React(Typescript) and GraphQL
+* 🤝  I'm open to collaborating on any interesting open source project
 
 ### Skills
 

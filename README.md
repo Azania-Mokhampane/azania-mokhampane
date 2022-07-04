@@ -2,7 +2,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azania
 ==============================================================================================================================
 
-Frontend Developer
+Frontend Engineer
 ------------------
 
 I'm a Front-End Engineer who specializes in React and Nodejs, as well as being a passionate about all things science and programming.

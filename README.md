@@ -8,7 +8,7 @@ Frontend Engineer
 I'm a Front-End Engineer who specializes in React and Nodejs, as well as being a passionate about all things science and programming.
 
 * 🌍  I'm based in South Africa
-* 🖥️  See my portfolio at [Portfolio](http://azaniamokhampane.vercel.app)
+* 🖥️  See my portfolio at [Portfolio](http://azaniamokhampane.com)
 * ✉️  You can contact me at [azaniam04@gmail.com](mailto:azaniam04@gmail.com)
 * 🧠  I'm learning React(Typescript) and GraphQL
 * 🤝  I'm open to collaborating on any interesting open source projects

@@ -36,8 +36,7 @@ I'm a Front-End Engineer who specializes in React and Nodejs, as well as being a
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/azaniam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
-</ul>
+<a href="https://www.buymeacoffee.com/azaniam"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a>
+

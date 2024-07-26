@@ -9,7 +9,7 @@ I'm a Front-End Engineer who specializes in React and Nodejs, as well as being a
 * 🌍  I'm based in 🌍 I'm based in South Africa🇿🇦
 * 🖥️  See my portfolio at [azaniamokhampane.com](http://azaniamokhampane.com)
 * ✉️  You can contact me at [azaniam04@gmail.com](mailto:azaniam04@gmail.com)
-* 🧠  I'm learning Ruby on Rails and React Native
+* 🧠  I'm learning Ruby on Rails.
 * 🤝  I'm open to collaborating on any interesting open source projects.
 
 ### Skills

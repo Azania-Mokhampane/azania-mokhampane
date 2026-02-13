@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Azania
 ==============================================================================================================================
 
-Frontend Engineer
+Frontend Developer
 -----------------
 
-I'm a Front-End Engineer who specializes in React and Nodejs, as well as being a passionate about all things science and programming.
+I'm a Front-End Developer who specializes in React and Nodejs, as well as being a passionate about all things science and programming.
 
 * 🌍  I'm based in 🌍 I'm based in South Africa🇿🇦
 * 🖥️  See my portfolio at [azaniamokhampane.com](http://azaniamokhampane.com)

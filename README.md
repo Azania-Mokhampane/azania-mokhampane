@@ -7,7 +7,7 @@ Frontend Developer
 I'm a Front-End Developer who specializes in React and Nodejs, as well as being a passionate about all things science and programming.
 
 * 🌍  I'm based in 🌍 I'm based in South Africa🇿🇦
-* 🖥️  See my portfolio at [azaniamokhampane.com](http://azaniamokhampane.com)
+* 🖥️  See my portfolio at [azaniamokhampane.dev](http://azaniamokhampane.dev)
 * ✉️  You can contact me at [azaniam04@gmail.com](mailto:azaniam04@gmail.com)
 * 🧠  I'm learning Ruby on Rails.
 * 🤝  I'm open to collaborating on any interesting open source projects.

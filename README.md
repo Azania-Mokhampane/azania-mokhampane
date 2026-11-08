@@ -6,7 +6,7 @@ Frontend Developer
 
 I'm a Front-End Developer who specializes in React and Nodejs, as well as being a passionate about all things science and programming.
 
-* 🌍  I'm based in 🌍 I'm based in South Africa🇿🇦
+* 🌍  I'm based in South Africa🇿🇦
 * 🖥️  See my portfolio at [azaniamokhampane.dev](http://azaniamokhampane.dev)
 * ✉️  You can contact me at [azania@azaniamokhampane.dev](mailto:azania@azaniamokhampane.dev)
 * 🧠  I'm learning React Native and Python.
